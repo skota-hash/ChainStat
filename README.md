@@ -45,8 +45,8 @@ NFTs can be:
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/chainstat-ipl-nft.git
-cd chainstat-ipl-nft
+git clone https://github.com/your-username/ChainStat.git
+cd ChainStat
 ```
 
 ### 2. Install Dependencies
