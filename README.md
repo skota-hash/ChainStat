@@ -32,7 +32,7 @@ NFTs can be:
 │   ├── components/        # Cards, Dashboard, Modals, etc.
 │   ├── pages/             # Home, MyNFTs, Listed, Showcase
 │   ├── utils/             # contract helpers
-│   ├── data/              # Raw and preprocessed IPL stats (CSV/JSON)
+│   ├── data/              # Raw and preprocessed IPL stats
 │   └── utilities/         # Dynamic metadata generator, price calculator, etc.
 ├── public/                # Static assets (logos, icons)
 ├── .env                   # Frontend envs (contract addresses, network ID)
